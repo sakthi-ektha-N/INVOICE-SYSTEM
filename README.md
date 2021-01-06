@@ -1,4 +1,4 @@
-# INVOICE-SYSTEM
+# SIGNATURE ART - INVOICE SYSTEM
 The main objective of this VB.NET project on invoice system is to manage the details of
 payment, billing, login, customer details, and stock details of an art supply store-Signature Art.
 This project is totally built on administrative end and thus only the administrator is guaranteed
